@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vivek1592002
 - 👀 I’m interested in .. Programing, web development and learning
-- 🌱 I’m currently learning ...c++
+- 🌱 I’m currently learning ...c++,JAVA , PYTHON , REACT JS , JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 Email - monushekhawat1592002@gmail.com
